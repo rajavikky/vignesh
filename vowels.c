@@ -4,7 +4,7 @@ void main()
 {
 char f;
 printf("Enter the character");
-scanf("%s",&f);
+scanf("%c",&f);
 if((f=='a')||(f=='e')||(f=='i')||(f=='o')||(f=='u')||(f=='A')||(f=='E')||(f=='I')||(f=='O')||(f=='U'))
 {
 printf("given character is vowel");
